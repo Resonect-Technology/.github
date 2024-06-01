@@ -1,4 +1,4 @@
-![image](https://github.com/Resonect-Technology/.github/assets/46845844/abe52445-63e3-4af8-b597-2d1a06b8867d)
+<img src="logo-resonect.png" alt="Resonect logo" width="20%"/>
 
 ## Resonect 👋
 - This is only the beginning.
